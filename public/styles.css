@@ -87,3 +87,25 @@ input[type="text"]{
     background-color: #fff;
 }
 
+ul {
+    list-style: none;
+}
+
+
+
+.list {
+    width: 100%;
+    background: #fff;
+    border-radius: 0 0 5px 5px;
+    margin: 0;
+    padding: 0;
+}
+
+.list-item {
+    padding: 8px 16px;
+}
+
+.list-item:hover {
+    background: #b5b5b5;
+    border-radius: 0 0 5px 5px;
+}
